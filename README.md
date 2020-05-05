@@ -8,4 +8,4 @@
 
 **How to use**
 
-`<localhost>:8000/visitors`
+`<localhost>:8000/visits`
