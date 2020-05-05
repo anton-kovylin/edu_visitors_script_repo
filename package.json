@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "nodejs mw visitors script",
+  "author": "anton kovylin",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.16.4",
+    "moment": "^2.25.2",
+    "moment-business": "^3.0.1",
+    "nodemon": "^2.0.3"
+  }
+}
